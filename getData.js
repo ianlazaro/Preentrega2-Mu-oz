@@ -7,7 +7,8 @@ const getData = async () => {
                 "precio": 20.00,
                 "talle": "M",
                 "color": "Rojo",
-                "imagen": "https://example.com/remera1.jpg"
+                "imagen": "https://example.com/remera1.jpg",
+                "stock": 1
             },
             {
                 "id": 2,
@@ -15,7 +16,8 @@ const getData = async () => {
                 "precio": 25.00,
                 "talle": "L",
                 "color": "Azul",
-                "imagen": "https://example.com/remera2.jpg"
+                "imagen": "https://example.com/remera2.jpg",
+                "stock": 1
             },
             {
                 "id": 3,
@@ -23,7 +25,8 @@ const getData = async () => {
                 "precio": 30.00,
                 "talle": "S",
                 "color": "Verde",
-                "imagen": "https://example.com/remera3.jpg"
+                "imagen": "https://example.com/remera3.jpg",
+                "stock": 1
             }
         ],
         "pantalones": [
@@ -33,7 +36,8 @@ const getData = async () => {
                 "precio": 40.00,
                 "talle": "M",
                 "color": "marron",
-                "imagen": "https://example.com/pantalon1.jpg"
+                "imagen": "https://example.com/pantalon1.jpg",
+                "stock": 1
             }
         ]
     }
